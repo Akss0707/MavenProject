@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test parallel="classes" thread-count="5" name="ChromeTest">
+  <parameter name="browsername" value="chrome"></parameter>
+    <classes>
+      <class name="com.SauceDemo.TestClasses.VerifyLogOut"/>
+      <class name="com.SauceDemo.TestClasses.VerifyLoginpage"/>
+      <class name="com.SauceDemo.TestClasses.VerifyAddtoCartMultiProducts"/>
+      <class name="com.SauceDemo.TestClasses.VerifyHomePage"/>
+      <class name="com.SauceDemo.TestClasses.VerifyAddToCartProducts"/>
+    </classes>
+  </test > <!-- Test -->
+
+
+
+<test parallel="classes" thread-count="5" name="FirefoxTest">
+  <parameter name="browsername" value="chrome"></parameter>
+    <classes>
+      <class name="com.SauceDemo.TestClasses.VerifyLogOut"/>
+      <class name="com.SauceDemo.TestClasses.VerifyLoginpage"/>
+      <class name="com.SauceDemo.TestClasses.VerifyAddtoCartMultiProducts"/>
+      <class name="com.SauceDemo.TestClasses.VerifyHomePage"/>
+      <class name="com.SauceDemo.TestClasses.VerifyAddToCartProducts"/>
+    </classes>
+  </test > <!-- Test -->
+  </suite> <!-- Suite -->

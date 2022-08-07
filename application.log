@@ -1,0 +1,223 @@
+2022-08-05 20:15:53,722  INFO [main] MavenProjectPractise:50 - Browser is open
+2022-08-05 20:15:58,806  INFO [main] MavenProjectPractise:57 - Url is open
+2022-08-05 20:15:58,981  INFO [main] MavenProjectPractise:61 - Url Window is maximized
+2022-08-05 20:16:01,963  INFO [main] MavenProjectPractise:70 - Username is Entered
+2022-08-05 20:16:04,236  INFO [main] MavenProjectPractise:75 - Password is Entered
+2022-08-05 20:16:06,554  INFO [main] MavenProjectPractise:80 - Click on login button
+2022-08-05 20:16:07,263  INFO [main] MavenProjectPractise:25 - clicked on setting button 
+2022-08-05 20:16:07,468  INFO [main] MavenProjectPractise:28 - Clikced on logout button
+2022-08-05 20:16:10,779  INFO [main] MavenProjectPractise:50 - Browser is open
+2022-08-05 20:16:18,601  INFO [main] MavenProjectPractise:57 - Url is open
+2022-08-05 20:16:18,750  INFO [main] MavenProjectPractise:61 - Url Window is maximized
+2022-08-05 20:16:20,969  INFO [main] MavenProjectPractise:70 - Username is Entered
+2022-08-05 20:16:23,144  INFO [main] MavenProjectPractise:75 - Password is Entered
+2022-08-05 20:16:25,397  INFO [main] MavenProjectPractise:80 - Click on login button
+2022-08-05 20:16:25,419  INFO [main] MavenProjectPractise:32 - Tc Is Passed
+2022-08-05 20:16:28,086  INFO [main] MavenProjectPractise:50 - Browser is open
+2022-08-05 20:17:10,374  INFO [main] MavenProjectPractise:57 - Url is open
+2022-08-05 20:17:10,514  INFO [main] MavenProjectPractise:61 - Url Window is maximized
+2022-08-05 20:17:12,750  INFO [main] MavenProjectPractise:70 - Username is Entered
+2022-08-05 20:17:14,968  INFO [main] MavenProjectPractise:75 - Password is Entered
+2022-08-05 20:17:17,221  INFO [main] MavenProjectPractise:80 - Click on login button
+2022-08-05 20:17:17,887  INFO [main] MavenProjectPractise:28 - products are added to cart
+2022-08-05 20:17:20,701  INFO [main] MavenProjectPractise:50 - Browser is open
+2022-08-05 20:17:32,356  INFO [main] MavenProjectPractise:57 - Url is open
+2022-08-05 20:17:32,519  INFO [main] MavenProjectPractise:61 - Url Window is maximized
+2022-08-05 20:17:34,771  INFO [main] MavenProjectPractise:70 - Username is Entered
+2022-08-05 20:17:37,593  INFO [main] MavenProjectPractise:75 - Password is Entered
+2022-08-05 20:17:40,011  INFO [main] MavenProjectPractise:80 - Click on login button
+2022-08-05 20:17:40,885  INFO [main] MavenProjectPractise:26 - Clicked on product container
+2022-08-05 20:17:41,065  INFO [main] MavenProjectPractise:33 - Clicked on setting Button
+2022-08-05 20:17:41,266  INFO [main] MavenProjectPractise:39 - Clicked on All items 
+2022-08-05 20:17:44,903  INFO [main] MavenProjectPractise:50 - Browser is open
+2022-08-05 20:17:46,660  INFO [main] MavenProjectPractise:57 - Url is open
+2022-08-05 20:17:46,842  INFO [main] MavenProjectPractise:61 - Url Window is maximized
+2022-08-05 20:17:49,275  INFO [main] MavenProjectPractise:70 - Username is Entered
+2022-08-05 20:17:51,625  INFO [main] MavenProjectPractise:75 - Password is Entered
+2022-08-05 20:17:54,099  INFO [main] MavenProjectPractise:80 - Click on login button
+2022-08-05 20:17:54,417  INFO [main] MavenProjectPractise:25 - product is added to cart
+2022-08-06 00:22:39,662  INFO [main] MavenProjectPractise:52 - Browser is open
+2022-08-06 00:22:41,338  INFO [main] MavenProjectPractise:59 - Url is open
+2022-08-06 00:22:41,825  INFO [main] MavenProjectPractise:63 - Url Window is maximized
+2022-08-06 00:22:44,346  INFO [main] MavenProjectPractise:72 - Username is Entered
+2022-08-06 00:22:46,605  INFO [main] MavenProjectPractise:77 - Password is Entered
+2022-08-06 00:22:48,977  INFO [main] MavenProjectPractise:82 - Click on login button
+2022-08-06 00:22:52,334  INFO [main] MavenProjectPractise:52 - Browser is open
+2022-08-06 00:22:53,819  INFO [main] MavenProjectPractise:59 - Url is open
+2022-08-06 00:22:53,993  INFO [main] MavenProjectPractise:63 - Url Window is maximized
+2022-08-06 00:22:56,318  INFO [main] MavenProjectPractise:72 - Username is Entered
+2022-08-06 00:22:58,545  INFO [main] MavenProjectPractise:77 - Password is Entered
+2022-08-06 00:23:01,171  INFO [main] MavenProjectPractise:82 - Click on login button
+2022-08-06 00:33:42,287  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:33:44,627  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:33:44,672  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:33:47,261  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:33:49,479  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:33:51,977  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:34:01,622  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:34:02,453  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:34:02,476  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:34:04,630  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:34:06,727  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:34:09,131  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:34:17,679  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:34:19,052  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:34:19,063  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:34:21,235  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:34:23,336  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:34:26,202  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:34:35,142  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:34:36,711  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:34:36,737  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:34:38,954  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:34:41,037  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:34:43,448  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:34:53,717  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:34:55,055  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:34:55,082  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:34:57,289  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:34:59,395  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:35:01,795  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:40:35,563  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:40:36,936  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:40:36,964  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:40:39,317  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:40:41,394  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:40:43,834  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:40:50,546  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:40:51,542  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:40:51,562  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:40:53,727  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:40:55,798  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:40:58,194  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:41:04,584  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:41:05,556  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:41:05,570  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:41:07,751  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:41:09,819  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:41:12,208  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:41:20,032  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:41:22,645  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:41:22,687  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:41:25,242  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:41:27,312  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:41:29,745  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:41:39,195  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:41:40,314  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:41:40,340  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:41:42,509  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:41:44,592  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:41:47,039  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:45:11,294  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:45:12,656  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:45:12,685  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:45:15,190  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:45:17,380  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:45:19,791  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:45:20,072  INFO [main] MavenProjectPractise:25 - clicked on setting button 
+2022-08-06 00:45:29,055  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:45:30,896  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:45:30,914  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:45:33,066  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:45:35,148  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:45:37,546  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:45:37,557  INFO [main] MavenProjectPractise:32 - Tc Is Passed
+2022-08-06 00:45:44,997  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:45:45,853  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:45:45,868  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:45:48,058  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:45:50,153  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:45:52,528  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:45:54,061  INFO [main] MavenProjectPractise:28 - products are added to cart
+2022-08-06 00:46:01,941  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:46:02,957  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:46:02,974  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:46:05,135  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:46:07,250  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:46:09,622  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:46:10,138  INFO [main] MavenProjectPractise:26 - Clicked on product container
+2022-08-06 00:46:10,390  INFO [main] MavenProjectPractise:33 - Clicked on setting Button
+2022-08-06 00:46:10,665  INFO [main] MavenProjectPractise:39 - Clicked on All items 
+2022-08-06 00:46:19,079  INFO [main] MavenProjectPractise:54 - Browser is open
+2022-08-06 00:46:20,156  INFO [main] MavenProjectPractise:61 - Url is open
+2022-08-06 00:46:20,182  INFO [main] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 00:46:22,332  INFO [main] MavenProjectPractise:74 - Username is Entered
+2022-08-06 00:46:24,415  INFO [main] MavenProjectPractise:79 - Password is Entered
+2022-08-06 00:46:26,871  INFO [main] MavenProjectPractise:84 - Click on login button
+2022-08-06 00:46:27,130  INFO [main] MavenProjectPractise:25 - product is added to cart
+2022-08-06 01:55:34,864  INFO [TestNG-test=ChromeTest-4] MavenProjectPractise:54 - Browser is open
+2022-08-06 01:55:34,866  INFO [TestNG-test=ChromeTest-2] MavenProjectPractise:54 - Browser is open
+2022-08-06 01:55:34,864  INFO [TestNG-test=ChromeTest-3] MavenProjectPractise:54 - Browser is open
+2022-08-06 01:55:34,864  INFO [TestNG-test=ChromeTest-1] MavenProjectPractise:54 - Browser is open
+2022-08-06 01:55:34,864  INFO [TestNG-test=ChromeTest-5] MavenProjectPractise:54 - Browser is open
+2022-08-06 01:55:39,340  INFO [TestNG-test=ChromeTest-5] MavenProjectPractise:61 - Url is open
+2022-08-06 01:55:39,362  INFO [TestNG-test=ChromeTest-1] MavenProjectPractise:61 - Url is open
+2022-08-06 01:55:39,386  INFO [TestNG-test=ChromeTest-3] MavenProjectPractise:61 - Url is open
+2022-08-06 01:55:39,439  INFO [TestNG-test=ChromeTest-4] MavenProjectPractise:61 - Url is open
+2022-08-06 01:55:40,662  INFO [TestNG-test=ChromeTest-1] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 01:55:41,021  INFO [TestNG-test=ChromeTest-3] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 01:55:41,060  INFO [TestNG-test=ChromeTest-5] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 01:55:41,241  INFO [TestNG-test=ChromeTest-4] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 01:55:44,410  INFO [TestNG-test=ChromeTest-1] MavenProjectPractise:74 - Username is Entered
+2022-08-06 01:55:45,019  INFO [TestNG-test=ChromeTest-3] MavenProjectPractise:74 - Username is Entered
+2022-08-06 01:55:45,288  INFO [TestNG-test=ChromeTest-4] MavenProjectPractise:74 - Username is Entered
+2022-08-06 01:55:45,381  INFO [TestNG-test=ChromeTest-5] MavenProjectPractise:74 - Username is Entered
+2022-08-06 01:55:45,944  INFO [TestNG-test=ChromeTest-2] MavenProjectPractise:61 - Url is open
+2022-08-06 01:55:46,301  INFO [TestNG-test=ChromeTest-2] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 01:55:47,154  INFO [TestNG-test=ChromeTest-1] MavenProjectPractise:79 - Password is Entered
+2022-08-06 01:55:48,700  INFO [TestNG-test=ChromeTest-3] MavenProjectPractise:79 - Password is Entered
+2022-08-06 01:55:48,705  INFO [TestNG-test=ChromeTest-5] MavenProjectPractise:79 - Password is Entered
+2022-08-06 01:55:49,232  INFO [TestNG-test=ChromeTest-4] MavenProjectPractise:79 - Password is Entered
+2022-08-06 01:55:51,277  INFO [TestNG-test=ChromeTest-2] MavenProjectPractise:74 - Username is Entered
+2022-08-06 01:55:51,594  INFO [TestNG-test=ChromeTest-1] MavenProjectPractise:84 - Click on login button
+2022-08-06 01:55:53,816  INFO [TestNG-test=ChromeTest-3] MavenProjectPractise:84 - Click on login button
+2022-08-06 01:55:54,689  INFO [TestNG-test=ChromeTest-5] MavenProjectPractise:84 - Click on login button
+2022-08-06 01:55:55,303  INFO [TestNG-test=ChromeTest-1] MavenProjectPractise:25 - clicked on setting button 
+2022-08-06 01:55:55,805  INFO [TestNG-test=ChromeTest-4] MavenProjectPractise:84 - Click on login button
+2022-08-06 01:55:56,045  INFO [TestNG-test=ChromeTest-1] MavenProjectPractise:28 - Clikced on logout button
+2022-08-06 01:55:56,561  INFO [TestNG-test=ChromeTest-2] MavenProjectPractise:79 - Password is Entered
+2022-08-06 01:55:56,571  INFO [TestNG-test=ChromeTest-5] MavenProjectPractise:25 - product is added to cart
+2022-08-06 01:55:57,449  INFO [TestNG-test=ChromeTest-4] MavenProjectPractise:26 - Clicked on product container
+2022-08-06 01:55:57,781  INFO [TestNG-test=ChromeTest-3] MavenProjectPractise:28 - products are added to cart
+2022-08-06 01:55:57,813  INFO [TestNG-test=ChromeTest-4] MavenProjectPractise:33 - Clicked on setting Button
+2022-08-06 01:55:58,211  INFO [TestNG-test=ChromeTest-4] MavenProjectPractise:39 - Clicked on All items 
+2022-08-06 01:55:59,138  INFO [TestNG-test=ChromeTest-2] MavenProjectPractise:84 - Click on login button
+2022-08-06 01:55:59,200  INFO [TestNG-test=ChromeTest-2] MavenProjectPractise:32 - Tc Is Passed
+2022-08-06 01:56:07,567  INFO [TestNG-test=FirefoxTest-3] MavenProjectPractise:54 - Browser is open
+2022-08-06 01:56:08,396  INFO [TestNG-test=FirefoxTest-4] MavenProjectPractise:54 - Browser is open
+2022-08-06 01:56:10,450  INFO [TestNG-test=FirefoxTest-1] MavenProjectPractise:54 - Browser is open
+2022-08-06 01:56:11,182  INFO [TestNG-test=FirefoxTest-5] MavenProjectPractise:54 - Browser is open
+2022-08-06 01:56:12,060  INFO [TestNG-test=FirefoxTest-2] MavenProjectPractise:54 - Browser is open
+2022-08-06 01:56:15,388  INFO [TestNG-test=FirefoxTest-3] MavenProjectPractise:61 - Url is open
+2022-08-06 01:56:15,675  INFO [TestNG-test=FirefoxTest-4] MavenProjectPractise:61 - Url is open
+2022-08-06 01:56:16,458  INFO [TestNG-test=FirefoxTest-5] MavenProjectPractise:61 - Url is open
+2022-08-06 01:56:16,990  INFO [TestNG-test=FirefoxTest-1] MavenProjectPractise:61 - Url is open
+2022-08-06 01:56:17,122  INFO [TestNG-test=FirefoxTest-3] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 01:56:27,304  INFO [TestNG-test=FirefoxTest-5] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 01:56:28,303  INFO [TestNG-test=FirefoxTest-2] MavenProjectPractise:61 - Url is open
+2022-08-06 01:56:28,416  INFO [TestNG-test=FirefoxTest-4] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 01:56:29,244  INFO [TestNG-test=FirefoxTest-1] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 01:56:31,555  INFO [TestNG-test=FirefoxTest-2] MavenProjectPractise:65 - Url Window is maximized
+2022-08-06 01:56:33,147  INFO [TestNG-test=FirefoxTest-5] MavenProjectPractise:74 - Username is Entered
+2022-08-06 01:56:35,722  INFO [TestNG-test=FirefoxTest-3] MavenProjectPractise:74 - Username is Entered
+2022-08-06 01:56:40,796  INFO [TestNG-test=FirefoxTest-1] MavenProjectPractise:74 - Username is Entered
+2022-08-06 01:56:41,180  INFO [TestNG-test=FirefoxTest-4] MavenProjectPractise:74 - Username is Entered
+2022-08-06 01:56:42,403  INFO [TestNG-test=FirefoxTest-5] MavenProjectPractise:79 - Password is Entered
+2022-08-06 01:56:43,789  INFO [TestNG-test=FirefoxTest-2] MavenProjectPractise:74 - Username is Entered
+2022-08-06 01:56:45,269  INFO [TestNG-test=FirefoxTest-3] MavenProjectPractise:79 - Password is Entered
+2022-08-06 01:56:47,229  INFO [TestNG-test=FirefoxTest-5] MavenProjectPractise:84 - Click on login button
+2022-08-06 01:56:47,895  INFO [TestNG-test=FirefoxTest-1] MavenProjectPractise:79 - Password is Entered
+2022-08-06 01:56:47,991  INFO [TestNG-test=FirefoxTest-4] MavenProjectPractise:79 - Password is Entered
+2022-08-06 01:56:48,321  INFO [TestNG-test=FirefoxTest-5] MavenProjectPractise:25 - product is added to cart
+2022-08-06 01:56:49,173  INFO [TestNG-test=FirefoxTest-2] MavenProjectPractise:79 - Password is Entered
+2022-08-06 01:56:51,786  INFO [TestNG-test=FirefoxTest-3] MavenProjectPractise:84 - Click on login button
+2022-08-06 01:56:52,166  INFO [TestNG-test=FirefoxTest-4] MavenProjectPractise:84 - Click on login button
+2022-08-06 01:56:54,278  INFO [TestNG-test=FirefoxTest-4] MavenProjectPractise:26 - Clicked on product container
+2022-08-06 01:56:54,898  INFO [TestNG-test=FirefoxTest-1] MavenProjectPractise:84 - Click on login button
+2022-08-06 01:56:56,071  INFO [TestNG-test=FirefoxTest-4] MavenProjectPractise:33 - Clicked on setting Button
+2022-08-06 01:56:56,510  INFO [TestNG-test=FirefoxTest-2] MavenProjectPractise:84 - Click on login button
+2022-08-06 01:56:56,854  INFO [TestNG-test=FirefoxTest-2] MavenProjectPractise:32 - Tc Is Passed
+2022-08-06 01:56:57,372  INFO [TestNG-test=FirefoxTest-4] MavenProjectPractise:39 - Clicked on All items 
+2022-08-06 01:56:57,583  INFO [TestNG-test=FirefoxTest-1] MavenProjectPractise:25 - clicked on setting button 
+2022-08-06 01:56:58,199  INFO [TestNG-test=FirefoxTest-1] MavenProjectPractise:28 - Clikced on logout button
+2022-08-06 01:56:59,466  INFO [TestNG-test=FirefoxTest-3] MavenProjectPractise:28 - products are added to cart
